@@ -1,0 +1,15 @@
+[
+  {
+    "atm_id": "BW-STAN-0001",
+    "bank": "Stanbic Bank Botswana",
+    "atm_name": "Airport Junction ATM 1",
+    "town": "Gaborone",
+    "district": "South-East District",
+    "address": "Airport Junction Shopping Centre, Shop No 64",
+    "landmark": "Airport Junction Mall",
+    "latitude": -24.6001,
+    "longitude": 25.9288,
+    "services": ["cash_withdrawal", "deposit"],
+    "verification_status": "verified"
+  }
+]
